@@ -3,8 +3,8 @@
 This bot is made to operate with "Bitmart" (https://www.bitmart.com/)
 
 To properly operate with this bot you need to get the "memo", "api key" and the "secret key" from de web page. And generate the "signature" with this bot.
-No external 3rd party packages needed
-Some functions still under development are commented
+No external 3rd party packages needed.
+Some functions still under development are commented.
 
 You can buy / sell any crypto currencie Ethereum based
 
