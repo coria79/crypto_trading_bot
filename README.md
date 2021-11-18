@@ -17,7 +17,7 @@ You can buy / sell any crypto currencie Ethereum based
 - Make signature
 
 Still in development. 50% of functionalities reached working properly.
-GNU License 2.0
-For learning and study purposes only
+GNU License 2.0 - 
+For learning and study purposes only. 
 Mati Coria - coria79@gmail.com
 (Trading's addiction it's a fact take care yourself)
