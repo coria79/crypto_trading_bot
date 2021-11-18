@@ -6,7 +6,7 @@ To properly operate with this bot you need to get the "memo", "api key" and the 
 No external 3rd party packages needed.
 Some functions still under development are commented.
 
-You can buy / sell any crypto currencie Ethereum based
+You can buy / sell any crypto currencie Ethereum based.
 
 2021.11.17 To the date you can get whit this bot:
 
